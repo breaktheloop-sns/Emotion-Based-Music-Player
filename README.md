@@ -73,3 +73,9 @@ AI in music or entertainment startups
 Made with ❤️ by @rochitl72
 Built with OpenCV, TensorFlow, FER, and Streamlit
 Inspired by: PartheshSoni/emotion-based-music-player
+
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Streamlit](https://img.shields.io/badge/UI-Streamlit-orange?logo=streamlit)
+![Platform](https://img.shields.io/badge/Mac%20M1-Compatible-green?logo=apple)
+![Status](https://img.shields.io/badge/Status-Working-success?logo=checkmarx)
