@@ -41,7 +41,7 @@ Edit
 
 ### 1. Clone the repo & install dependencies
 ```bash
-git clone https://github.com/rochitl72/emotion-music-player.git
+git clone https://github.com/breaktheloop-sns/emotion-music-player.git
 cd emotion-music-player
 python3 -m venv venv
 source venv/bin/activate
@@ -70,7 +70,7 @@ Mental wellness or therapy demos
 AI in music or entertainment startups
 
 🤝 Credits
-Made with ❤️ by @rochitl72
+Made with ❤️ by @breaktheloop-sns
 Built with OpenCV, TensorFlow, FER, and Streamlit
 Inspired by: PartheshSoni/emotion-based-music-player
 
